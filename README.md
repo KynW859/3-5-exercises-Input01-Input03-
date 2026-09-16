@@ -14,3 +14,8 @@ Input03
 * Another int that adds the former three into a sum.
 * Made it print the sum.
 * Of course, made it close scanner after executing commands
+
+learnt about:
+* Scanner object and its methods
+* Overall knowledge for receiving basic input
+* Integer.parseInt using JOptionPane (and likely scanner methods as well) as a value.
